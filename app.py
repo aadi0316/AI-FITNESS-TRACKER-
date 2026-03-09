@@ -39,8 +39,8 @@ def predict_calories():
 
         # 2. Extract values with safe defaults
         # We use .get() to prevent the "KeyError" crash
-        weight = float(data.get('weight', 70))
-        duration = float(data.get('duration', 30))
+        weight = float(data.get('weight', 92))
+        duration = float(data.get('duration', 60))
         
         # 3. Calculate (MET Formula: MET 8.0 for vigorous exercise)
         # Calories = (MET * weight_kg * duration_min) / 60
