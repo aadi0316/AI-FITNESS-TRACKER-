@@ -164,13 +164,6 @@ Happy Tracking! 🏋️‍♂️
 
 
 
-**Backend**
-
-
----
-![SQLite3](https://github.com/user-attachments/assets/5f8424ef-30f5-4283-881c-c1c622658217)
-
-
 **Chatbot**
 
 
