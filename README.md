@@ -1,10 +1,10 @@
-# Personalized Fitness Tracker
+# 🏋️‍♂️ Personalized Fitness Tracker
 
 **Personalized Fitness Tracker** is an innovative web application designed to help users track their fitness journey in real-time. By leveraging cutting-edge technologies like AI, machine learning, and computer vision, this app provides personalized feedback on exercise form, calorie burn predictions, and tailored recovery recommendations.
 
 ---
 
-## Features
+## 🚀 Features
 
 1. **Real-Time Exercise Tracking**
    - Tracks exercise repetitions using OpenCV and MediaPipe.
@@ -25,7 +25,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python Flask
@@ -37,14 +37,14 @@
 
 ---
 
-## Installation
+## 📦 Installation
 
-### Prerequisites
+### ⚙️ Prerequisites
 - Python 3.8 or later
 - pip package manager
 - Virtual environment (optional but recommended)
 
-### Steps
+### 🐛 Steps
 1. Clone this repository:
    ```bash
    git clone https://github.com/aadi0316/PERSONALIZED-FITNESS-TRACKER.git
@@ -79,7 +79,7 @@
 
 ---
 
-## Usage
+## ▶️ Usage
 
 1. Log in or create an account.
 2. Select an exercise and start performing it in front of your webcam.
@@ -90,7 +90,7 @@
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 
 - Add support for more exercises and pose tracking.
 - Integrate advanced calorie prediction models.
@@ -99,7 +99,7 @@
 
 ---
 
-## Contribution
+## 📁 Contribution
 
 Contributions are welcome! Please follow these steps:
 
@@ -117,7 +117,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## Acknowledgments
+## 🙌 Acknowledgments
 
 - **OpenCV and MediaPipe** for enabling robust real-time computer vision.
 - **Flask Framework** for creating a seamless web application.
@@ -127,7 +127,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## Contact
+## 📄 Contact
 
 For questions or suggestions, feel free to contact:
 
@@ -140,7 +140,7 @@ Happy Tracking! 🏋️‍♂️
 ---
 
 
-## Images 
+## 📸 Images 
 **Real Time Rep Counter**
 
 
