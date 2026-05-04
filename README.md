@@ -1,6 +1,6 @@
-# AI Fitness Tracker
+# Personalized Fitness Tracker
 
-**AI Fitness Tracker** is an innovative web application designed to help users track their fitness journey in real-time. By leveraging cutting-edge technologies like AI, machine learning, and computer vision, this app provides personalized feedback on exercise form, calorie burn predictions, and tailored recovery recommendations.
+**Personalized Fitness Tracker** is an innovative web application designed to help users track their fitness journey in real-time. By leveraging cutting-edge technologies like AI, machine learning, and computer vision, this app provides personalized feedback on exercise form, calorie burn predictions, and tailored recovery recommendations.
 
 ---
 
