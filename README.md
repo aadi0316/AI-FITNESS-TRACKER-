@@ -47,7 +47,7 @@
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-fitness-tracker.git
+   git clone https://github.com/aadi0316/PERSONALIZED-FITNESS-TRACKER.git
    cd ai-fitness-tracker
    ```
 
