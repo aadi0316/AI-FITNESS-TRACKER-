@@ -135,7 +135,7 @@ For questions or suggestions, feel free to contact:
 - **Email**: adityarana4010@gmail.com
 - **LinkedIn**: [Aditya Rana](https://www.linkedin.com/in/aditya-rana-7490a7366/)
 
-Happy Tracking! 🏋️‍♂️
+Happy Tracking! 🏃
 
 ---
 
